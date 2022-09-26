@@ -1,6 +1,4 @@
 import { StatusBar } from 'expo-status-bar';
-import { useEffect, useState } from "react";
-import {APP_NAME, API_KEY, COMPANY_EMAIL} from '@env'
 import MovieScreen from "./MovieScreen";
 import { StyleSheet, Text, View, FlatList, Button } from 'react-native';
 import * as React from 'react';
